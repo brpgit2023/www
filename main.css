@@ -48,4 +48,7 @@
     color: yellowgreen;
     text-align: center;
     margin: 20px;
+    width: 900px;
+    position: relative;
+    left: 200px;
 }
