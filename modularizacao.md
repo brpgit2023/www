@@ -9,6 +9,7 @@ todas as tags do html e seletores do css onde pode ser dividos em modulos, pois 
 -----------------------
 Esquema de modulariação
 -----------------------
+<body id=modulo_corpo>
 <div id="modulo_caixa_um">
 <p id="modulo_texto">
 <h1 id="modulo_titulo">
