@@ -35,22 +35,26 @@
 
 #modulo_caixa_um
 {
-    border: 2px solid red;
-    background-color: darkgrey;
+    background-image: url(/.img/parede_carvao.jpg);
+    width: 1118px;
+    height: 518px;
+    position: relative;
+    left: 100px;
+    top: 10px;
 }
 
 /* essa parte configurar o titulo da página */
 
 #modulo_titulo
 {
-    border: 2px dotted black;
     background-color: darkgreen;
     color: yellowgreen;
     text-align: center;
     margin: 20px;
     width: 900px;
     position: relative;
-    left: 200px;
+    left: 100px;
+    top: 20px;
 }
 
 /* Configurando a aparencia do texto */
@@ -59,4 +63,8 @@
 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+    color: lightgray;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
 }
