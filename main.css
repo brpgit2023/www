@@ -19,12 +19,33 @@
     font-family: brpfont4;
     src: url(/.fonts4/Pacifico-Regular.ttf)
 }
+
 /*Essa parte configura o estilo inicial da página*/
-body{
+
+#modulo_corpo
+{
     margin: 0px;
     padding: 0px;
     background-image: url(/.img/hexagon-structure-3g-1633279.jpg);
     background-size: 1375px 1230px;
     background-repeat: no-repeat;
 }
+
 /*Essa parte configura o contenier que comporta o conteúdo da página*/
+
+#modulo_caixa_um
+{
+    border: 2px solid red;
+    background-color: darkgrey;
+}
+
+/* essa parte configurar o titulo da página */
+
+#modulo_titulo
+{
+    border: 2px dotted black;
+    background-color: darkgreen;
+    color: yellowgreen;
+    text-align: center;
+    margin: 20px;
+}
