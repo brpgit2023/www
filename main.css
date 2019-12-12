@@ -1,25 +1,3 @@
-/*Essa parte configura as font-face*/
-@font-face
-{
-    font-family: brpfont1;
-    src: url(/.fonts1/AmaticSC-Bold.ttf);
-}
-@font-face
-{
-    font-family:brpfont2;
-    src: url(/.fonts2/DancingScript-Bold.ttf);
-}
-@font-face
-{
-    font-family: brpfont3;
-    src: url(/.fonts3/IndieFlower-Regular.ttf);
-}
-@font-face
-{
-    font-family: brpfont4;
-    src: url(/.fonts4/Pacifico-Regular.ttf)
-}
-
 /*Essa parte configura o estilo inicial da página*/
 
 #modulo_corpo
