@@ -61,10 +61,19 @@
     left: ;
     top: ;
 }
+#modulo_dados:hover 
+{
 
-#Modulo_php
+}
+
+#modulo_php
 {
     position: relative;
     left: ;
     top: ;
+}
+
+#modulo_dados:hover 
+{
+
 }
