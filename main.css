@@ -50,15 +50,21 @@
 /*Essa parte cuidará da navegação da página*/
 #modulo_menu
 {
-
+    position: relative;
+    left: ;
+    top: ;
 }
 
 #modulo_dados
 {
-
+    position: relative;
+    left: ;
+    top: ;
 }
 
 #Modulo_php
 {
-    
+    position: relative;
+    left: ;
+    top: ;
 }
