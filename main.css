@@ -48,11 +48,12 @@
 }
 
 /*Essa parte cuidará da navegação da página*/
+
 #modulo_menu
 {
     position: relative;
-    left: ;
-    top: ;
+    left: 350px;
+    
 }
 
 #modulo_dados
@@ -71,8 +72,11 @@
 #modulo_php
 {
     position: relative;
-    left: ;
-    top: ;
+    left: -215px;
+    top: 50px;
+    background-color: honeydew;
+    color: black;
+    font-size: 18px;
 }
 
 #modulo_dados:hover 
