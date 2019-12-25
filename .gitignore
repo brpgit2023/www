@@ -1,4 +1,5 @@
 #Esse arquivo server para excluir os arquivos que não subira para o repositório
+.gitignore
 .directory
 modularizacao.md 
 modularization.md
