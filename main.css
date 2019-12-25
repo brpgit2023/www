@@ -46,40 +46,38 @@
     padding-left: 20px;
     padding-right: 20px;
 }
-
 /*Essa parte cuidará da navegação da página*/
-
 #modulo_menu
 {
     position: relative;
-    left: 350px;
+    left: 500px;
+    top: -100px;
+}
+
+#modulo_php
+{
+    position: relative;
+    left: -241pt;
+    top: 90px;
+    background-color: honeydew;
+    color: black;
+    font-size: 14.3pt;
     
 }
 
 #modulo_dados
 {
     position: relative;
-    left: ;
-    top: ;
+    left: -70pt;
+    top: 150px;
     background-color: honeydew;
     color: black;
-}
-#modulo_dados:hover 
-{
-
-}
-
-#modulo_php
-{
-    position: relative;
-    left: -215px;
-    top: 50px;
-    background-color: honeydew;
-    color: black;
-    font-size: 18px;
+    font-size: 16.8px;
 }
 
 #modulo_dados:hover 
 {
-
+    background-color: red;
+    color: darkred;
 }
+
