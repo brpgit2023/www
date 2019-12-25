@@ -5,7 +5,7 @@
     margin: 0px;
     padding: 0px;
     background-image: url(/.img/hexagon-structure-3g-1633279.jpg);
-    background-size: 1375px 1230px;
+    background-size: 105% 120%;
     background-repeat: no-repeat;
 }
 
@@ -14,11 +14,11 @@
 #modulo_caixa_um
 {
     background-image: url(/.img/parede_carvao.jpg);
-    width: 1118px;
-    height: 518px;
+    width: 1150px;
+    height: 580px;
     position: relative;
-    left: 100px;
-    top: 10px;
+    left: 50px;
+    top: -10px;
 }
 
 /* essa parte configurar o titulo da página */
@@ -28,11 +28,11 @@
     background-color: rgba(0, 100, 0, 0.300);
     color: rgba(153, 205, 50, 0.575);
     text-align: center;
-    margin: 20px;
+    margin: 20pt;
     width: 900px;
     position: relative;
     left: 100px;
-    top: 20px;
+    top: 50px;
 }
 
 /* Configurando a aparencia do texto */
@@ -40,41 +40,59 @@
 #modulo_texto
 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 20pt;
     color: lightgray;
     text-align: justify;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    top: 56px;
 }
 /*Essa parte cuidará da navegação da página*/
 #modulo_menu
 {
     position: relative;
-    left: 500px;
-    top: -100px;
+    left: 480px;
+    top: 50px;
 }
 
 #modulo_php
 {
     position: relative;
-    left: -241pt;
+    left: -330pt;
     top: 90px;
     background-color: honeydew;
     color: black;
-    font-size: 14.3pt;
+    font-size: 15pt;
+    text-decoration: none;
     
 }
 
+#modulo_php:visited
+{
+    background-color: rgb(151, 11, 11);
+    color: rgb(0, 153, 255);
+}
+#modulo_php:hover 
+{
+    background-color: red;
+    color: darkred;
+}
 #modulo_dados
 {
     position: relative;
-    left: -70pt;
-    top: 150px;
+    left: 70pt;
+    top: 90px;
     background-color: honeydew;
     color: black;
-    font-size: 16.8px;
+    font-size: 15pt;
+    text-decoration: none;
 }
-
+#modulo_dados:visited
+{
+    background-color: rgb(151, 11, 11);
+    color: rgb(0, 153, 255);
+}
 #modulo_dados:hover 
 {
     background-color: red;
