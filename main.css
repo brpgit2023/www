@@ -5,7 +5,7 @@
     margin: 0px;
     padding: 0px;
     background-image: url(/.img/hexagon-structure-3g-1633279.jpg);
-    background-size: 105% 120%;
+    background-size: 90pc 70pc;
     background-repeat: no-repeat;
 }
 
@@ -14,11 +14,11 @@
 #modulo_caixa_um
 {
     background-image: url(/.img/parede_carvao.jpg);
-    width: 1150px;
-    height: 580px;
+    width: 40pc;
+    height: 36pc;
     position: relative;
-    left: 50px;
-    top: -10px;
+    left: 26pc;
+    top: 10px;
 }
 
 /* essa parte configurar o titulo da página */
@@ -28,11 +28,10 @@
     background-color: rgba(0, 100, 0, 0.300);
     color: rgba(153, 205, 50, 0.575);
     text-align: center;
-    margin: 20pt;
-    width: 900px;
+    margin: 16pt;
     position: relative;
-    left: 100px;
-    top: 50px;
+    left: -5px;
+    top: 35px;
 }
 
 /* Configurando a aparencia do texto */
@@ -40,32 +39,33 @@
 #modulo_texto
 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
-    color: lightgray;
+    font-size: 15pt;
+    color: rgb(153, 205, 50);
     text-align: justify;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
     top: 56px;
+    font-weight: bold;
 }
 /*Essa parte cuidará da navegação da página*/
 #modulo_menu
 {
     position: relative;
-    left: 480px;
+    left: 270px;
     top: 50px;
 }
 
 #modulo_php
 {
     position: relative;
-    left: -330pt;
+    left: -370pt;
     top: 90px;
     background-color: honeydew;
     color: black;
-    font-size: 15pt;
+    font-size: 13pt;
     text-decoration: none;
-    
+    width: 50px;    
 }
 
 #modulo_php:visited
@@ -81,11 +81,11 @@
 #modulo_dados
 {
     position: relative;
-    left: 70pt;
+    left: 30pt;
     top: 90px;
     background-color: honeydew;
     color: black;
-    font-size: 15pt;
+    font-size: 13pt;
     text-decoration: none;
 }
 #modulo_dados:visited
