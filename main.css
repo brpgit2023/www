@@ -58,14 +58,13 @@
 
 #modulo_php
 {
-    position: relative;
-    left: -370pt;
+    position: absolute;
+    left: -170pt;
     top: 90px;
     background-color: honeydew;
     color: black;
     font-size: 13pt;
     text-decoration: none;
-    width: 50px;    
 }
 
 #modulo_php:visited
@@ -80,8 +79,8 @@
 }
 #modulo_dados
 {
-    position: relative;
-    left: 30pt;
+    position: absolute;
+    left: 60pt;
     top: 90px;
     background-color: honeydew;
     color: black;
