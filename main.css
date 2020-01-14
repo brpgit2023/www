@@ -14,9 +14,9 @@
 #modulo_caixa_um
 {
     background-image: url(/.img/parede_carvao.jpg);
-    width: 40pc;
-    height: 36pc;
-    position: relative;
+    width: 650px;
+    height: 600px;
+    position: absolute;
     left: 26pc;
     top: 10px;
 }
