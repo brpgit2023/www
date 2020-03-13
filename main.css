@@ -17,8 +17,8 @@
     width: 650px;
     height: 600px;
     position: absolute;
-    left: 26pc;
-    top: 10px;
+    left: 25pc;
+    top: 80px;
 }
 
 /* essa parte configurar o titulo da página */
@@ -92,11 +92,11 @@
 #modulo_dados:visited
 {
     background-color: rgb(151, 11, 11);
-    color: rgb(0, 153, 255);
+    color: rgb(255, 255, 255);
 }
 #modulo_dados:hover 
 {
     background-color: red;
-    color: darkred;
+    color: rgb(255, 255, 255);
 }
 
